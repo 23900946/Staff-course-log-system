@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  font-weight: bold;
+  background-color: #9a2c5f;
+}
+
+body {
+  background-color: #e89f03;
+}
+
+#nav_bar {
+  text-align: center;
+}
+
+#view {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding-bottom: 500px;
+  outline: solid;
+  outline-color: black;
+  background-color: white;
+}
+
+#search {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.label {
+  margin-left: 600px;
+}
+
+.spacing {
+  margin-bottom: 100px;
+}
+
+.Enter {
+  margin: auto;
+  display: block;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+}
+
+tr, td {
+  border: 1px solid black;
+}
